@@ -22,10 +22,12 @@ public class Main {
 
 class MyArray  //线性表类
 {
+    //线性表尺寸
     public int getSize() {
         return size;
     }
 
+    //线性表容量
     public int getCapacity() {
         return capacity;
     }
